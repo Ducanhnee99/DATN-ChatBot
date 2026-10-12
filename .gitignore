@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+node_modules/
+frontend/dist/
+.env
+data/chat.db
+data/index/

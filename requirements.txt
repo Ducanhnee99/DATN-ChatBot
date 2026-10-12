@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+python-docx
+rank_bm25
+numpy
+sentence-transformers
+underthesea
+google-genai
+python-dotenv
